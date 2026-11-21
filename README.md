@@ -122,3 +122,5 @@ python evaluar.py
 - CIFAR-10 images are tiny, centered, single-object crops. Phone photos with cluttered backgrounds, different angles or lighting differ a lot from the training data, so accuracy on real photos is lower than on the test set.
 - Cat and dog are the most commonly confused classes at 32×32 resolution.
 - The network was trained from scratch on a small dataset, without pretrained weights.
+
+![Dog picture classified](fotos/pred_perro.png)
