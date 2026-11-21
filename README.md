@@ -2,6 +2,8 @@
 
 A convolutional neural network built and trained from scratch in PyTorch to classify images from the CIFAR-10 dataset, served through a Gradio web app. Developed as a Computer Vision assignment (deep learning application).
 
+![Bird picture classified](fotos/pred_pajaro.png)
+
 ## Task
 
 Image classification into 10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
